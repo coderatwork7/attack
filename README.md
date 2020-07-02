@@ -17,6 +17,7 @@ Clustering algorithms have been increasingly adopted in security applications to
     SecML - Python Library for secure and explainable machine learning - includes implementation of a wide range of ML and attack algorithms, support for dense and sparse data, multiprocessing, visualization tools.
  The research shows that widely-used RL algorithms, such as DQN, TRPO, and A3C, are vulnerable to adversarial inputs. http://rll.berkeley.edu/adversarial/
  https://arxiv.org/abs/1701.04143
-
-
+https://arxiv.org/pdf/2005.12154v1.pdf
+https://www.arxiv-vanity.com/papers/2005.05321/
 https://github.com/thunlp/TAADpapers
+https://github.com/CatherineWong/dancin_seq2seq/blob/master/Basic%20Adversarial%20Text%20Example%20Experiment%20Runner%20Template.ipynb
